@@ -1,6 +1,6 @@
 # Short Link
 
-This is a link shortening application built on Meteor and React.
+This is a link shortening application built on Meteor and React
 
 ## Authors
 
